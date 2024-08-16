@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">AMRVoice2</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="menu_settings">Preferences</string>
+    <string name="Scan">Connect Robot</string>
+    <string name="BtSettings">BluetoothSettings</string>
+    <string name="scanning">Searching for devices …</string>
+    <string name="select_device">Select a Device to Connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices : Swipe Up/Down to see the devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+    <string name="preferences_activity">App Preferences:</string>
+    <string name="default_device">Default Device</string>
+    <string name="bt_preference">Turn off Bluetooth on Exit :</string>
+    <string name="connection_preference">Connect to Default device on Start ?</string>
+    <string name="button_setdefault">Set Default Device</string>
+    <string name="screen_orientation">Potrait Orientation ?</string>
+    <string name="app_info">APP Info</string>
+    <string name="x_axis">X Axis</string>
+    <string name="y_axis">Y Axis</string>
+    <string name="z_axis">Z Axis</string>
+    <string name="x">x</string>
+</resources>
